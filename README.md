@@ -1,2 +1,2 @@
 # LeetCode
-leetcode 编程题目联系
+leetcode 编程题目练习

@@ -33,9 +33,6 @@ public class 对称二叉树 {
             return false;
         }
 
-        if (left.val == right.val) {
-            return false;
-        }
         return dfs(left.left, right.right) && dfs(left.right, right.left);
     }
 }

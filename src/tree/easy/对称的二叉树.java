@@ -1,12 +1,11 @@
-package tree;
+package tree.easy;
 
 import pub.TreeNode;
 
 /**
- * 101. 对称二叉树
+ * 剑指 Offer 28. 对称的二叉树
  */
-public class 对称二叉树 {
-
+public class 对称的二叉树 {
     public boolean isSymmetric(TreeNode root) {
         if (root == null) {
             return true;

@@ -20,88 +20,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/两个数组的交集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/两个数组的交集II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/乘积最大子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/全排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/只出现一次的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/合并两个有序数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/寻找大于二分之一的众数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/打乱数组a洗牌算法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/找区间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/提莫攻击.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/搜索二维矩阵II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/递增的三元子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/除自身以外数组的乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/高度检查器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/位1的个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/颠倒二进制位.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/二进制链表转整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/回文链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/奇偶链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/排序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/环形链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/移除重复节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/移除链表元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/返回倒数第k个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/链表的中间结点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/省份数量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/三的幂.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/number/快乐数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pub/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pub/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/分割回文串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/分割平衡字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/反转字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/增减字符串匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/字符串中的第一个唯一字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/字符串的排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/字符串相乘.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/宝石和石头.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/最长公共前缀.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/有效的字母异位词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/有效的括号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/str/验证回文串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉搜索树中的众数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉搜索树的最小绝对差.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉搜索树的最近公共祖先.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉树的前序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉树的后序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉树的所有路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/二叉树的最小深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/合并二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/将有序数组转换为二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/左叶子之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/平衡二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ztest_package/Spil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ztest_package/ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ztest_package/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ztest_package/covert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ztest_package/reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b3f02dc659fd762882c5e260301d62990d6fc6a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18693e0ac4f57a140ad5847667c48dd30b782e15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46f9de51f03dd8a261dc67d19bb80dc9abcabd15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56394c2ab0878ad0cb679335233e34fcf55ff8c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce51b054c4a97e4ec1d1356aa83ebc1ada012156" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/两个数组的交集.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/两个数组的交集II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/乘积最大子序列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/全排列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/只出现一次的数字.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/合并两个有序数组.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/寻找大于二分之一的众数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/打乱数组a洗牌算法.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/找区间.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/提莫攻击.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/搜索二维矩阵II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/递增的三元子序列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/除自身以外数组的乘积.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/array/高度检查器.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/bin/位1的个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/bin/颠倒二进制位.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/inter/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/inter/SystemConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/inter/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/HasCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/二进制链表转整数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/回文链表.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/奇偶链表.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/排序链表.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/环形链表.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/移除重复节点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/移除链表元素.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/返回倒数第k个节点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/list/链表的中间结点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/map/省份数量.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/number/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/number/三的幂.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/number/快乐数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/pub/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/pub/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/分割回文串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/分割平衡字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/反转字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/增减字符串匹配.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/字符串中的第一个唯一字符.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/字符串的排列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/字符串相乘.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/宝石和石头.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/最长公共前缀.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/有效的字母异位词.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/有效的括号.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/str/验证回文串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/thread/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/thread/Thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/thread/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/thread/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉搜索树中的众数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉搜索树的最小绝对差.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉搜索树的最近公共祖先.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉树的前序遍历.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉树的后序遍历.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉树的所有路径.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/二叉树的最小深度.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/合并二叉树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/对称二叉树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/将有序数组转换为二叉搜索树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/左叶子之和.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/平衡二叉树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/Spil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/ThreadPoolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/covert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ztest_package/reflect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inter/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inter/SystemConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inter/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/easy/二叉树的中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/easy/对称的二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉搜索树中的众数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉搜索树中的众数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉搜索树的最小绝对差.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉搜索树的最小绝对差.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉搜索树的最近公共祖先.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉搜索树的最近公共祖先.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉树的前序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉树的前序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉树的后序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉树的后序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉树的所有路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉树的所有路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/二叉树的最小深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/合并二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/合并二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/对称二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/对称二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/将有序数组转换为二叉搜索树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/将有序数组转换为二叉搜索树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/左叶子之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/左叶子之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/平衡二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/easy/平衡二叉树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="myLine" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:\java\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\java\Maven\apache-maven-3.5.2\conf\settings-local.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -116,9 +162,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -126,17 +173,37 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inter.InterfaceTest" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InterfaceTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,8 +213,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672024335079</updated>
-      <workItem from="1672024336395" duration="248000" />
+      <workItem from="1672024336395" duration="1094000" />
+      <workItem from="1672040553230" duration="30000" />
+      <workItem from="1672278055841" duration="1780000" />
+      <workItem from="1672714710297" duration="1274000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode提交">
+      <created>1672024759397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672024759397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,11 +241,52 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="SettingsEditor" timestamp="1672024585685">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1672024708656">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1672024585685" />
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1672024708656" />
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1672278796707">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1672278796707" />
+    <state x="442" y="110" key="FileChooserDialogImpl" timestamp="1672040576857">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="442" y="110" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1672040576857" />
+    <state width="1322" height="108" key="GridCell.Tab.0.bottom" timestamp="1672282159326">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="108" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1672282159326" />
+    <state width="1322" height="108" key="GridCell.Tab.0.center" timestamp="1672282159326">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="108" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1672282159326" />
+    <state width="1322" height="108" key="GridCell.Tab.0.left" timestamp="1672282159311">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="108" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1672282159311" />
+    <state width="1322" height="108" key="GridCell.Tab.0.right" timestamp="1672282159326">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="108" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1672282159326" />
+    <state x="185" y="20" key="SettingsEditor" timestamp="1672716068933">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="185" y="20" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1672716068933" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1672025316476">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1672025316476" />
+    <state x="486" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672025243658">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="486" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1672025243658" />
   </component>
 </project>

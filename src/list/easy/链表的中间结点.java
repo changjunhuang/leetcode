@@ -1,4 +1,4 @@
-package list;
+package list.easy;
 
 import pub.ListNode;
 

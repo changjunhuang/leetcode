@@ -53,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/二进制链表转整数.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/list/easy/从尾到头打印链表.java">
           <value>
             <set />
@@ -73,12 +78,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/回文链表.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/list/easy/字符串压缩.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/list/easy/字符串轮转.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/环形链表.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/移除重复节点.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/移除链表元素.java">
           <value>
             <set />
           </value>
@@ -103,12 +128,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/返回倒数第k个节点.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/list/easy/链表中倒数第k个节点.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/list/easy/链表的中间结点.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/mid/分隔链表.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/list/mid/反转链表II.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/mid/奇偶链表.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/mid/排序链表.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/链表的中间结点.java">
           <value>
             <set />
           </value>

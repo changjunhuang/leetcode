@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="" />
+    <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,7 +295,7 @@
       <workItem from="1678935979356" duration="7460000" />
       <workItem from="1678958778159" duration="653000" />
       <workItem from="1678959461299" duration="292000" />
-      <workItem from="1678959789081" duration="1097000" />
+      <workItem from="1678959789081" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode提交">
       <created>1672024759397</created>

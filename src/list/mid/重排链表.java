@@ -14,7 +14,6 @@ public class 重排链表 {
         node.next.next.next.next = new ListNode(5);
 
         reorderList(node);
-
         while (node != null) {
             System.out.println(node.val);
             node = node.next;
@@ -36,7 +35,6 @@ public class 重排链表 {
             fast = fast.next.next;
             slow = slow.next;
         }
-
         ListNode mid = slow;
         ListNode slowHead = mid.next;
         mid.next = null;

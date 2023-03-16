@@ -178,6 +178,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/list/mid/删除链表的倒数第N个结点.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/list/mid/反转链表II.java">
           <value>
             <set />
@@ -194,6 +199,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/list/mid/有序链表转换二叉搜索树.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/list/mid/重排链表.java">
           <value>
             <set />
           </value>
@@ -244,6 +254,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/ztest_package/covert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/fundraiser/service/src/main/java/com/bj58/fbu/loan/fundraiser/filter/ScfPreFilter.java">
           <value>
             <set />
           </value>

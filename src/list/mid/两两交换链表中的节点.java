@@ -4,6 +4,8 @@ import pub.ListNode;
 
 /**
  * 24. 两两交换链表中的节点
+ * 输入：head = [1,2,3,4]
+ * 输出：[2,1,4,3]
  */
 public class 两两交换链表中的节点 {
     public static void main(String[] args) {
@@ -21,7 +23,7 @@ public class 两两交换链表中的节点 {
         return newHead;
     }
 
-    //  迭代
+    //  迭代，好理解
     public ListNode swapPairs2(ListNode head) {
         ListNode dummyHead = new ListNode(0);
         dummyHead.next = head;

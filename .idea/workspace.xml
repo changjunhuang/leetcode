@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/list/mid/删除链表的倒数第N个结点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/mid/重排链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/mid/两两交换链表中的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/mid/两两交换链表中的节点.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,7 +293,7 @@
       <workItem from="1678935979356" duration="7460000" />
       <workItem from="1678958778159" duration="653000" />
       <workItem from="1678959461299" duration="292000" />
-      <workItem from="1678959789081" duration="664000" />
+      <workItem from="1678959789081" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode提交">
       <created>1672024759397</created>
@@ -435,10 +429,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="185" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1678959922506" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1677914371410">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1678960867113">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1677914371410" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1678960867113" />
     <state x="486" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672025243658">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

@@ -23,7 +23,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/SelfTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/a.java">
           <value>
             <set />
           </value>
@@ -213,6 +238,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/stack_queue/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/stack_queue/easy/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/stack_queue/easy/b.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/stack_queue/mid/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/str/easy/判定是否互为字符重排.java">
           <value>
             <set />
@@ -253,6 +298,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/ztest_package/SelfTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/ztest_package/covert.java">
           <value>
             <set />
@@ -264,6 +314,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../workspace/fundraiser/service/src/main/java/com/bj58/fbu/loan/fundraiser/processor/applyloan/consumeloan/HNTrustGetLoanResultProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/fundraiser/service/src/main/java/com/bj58/fbu/loan/fundraiser/util/RedisUtil.java">
           <value>
             <set />
           </value>

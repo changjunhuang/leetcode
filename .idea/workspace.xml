@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stack_queue/mid/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ztest_package/SelfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,19 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyTest" />
@@ -304,7 +286,8 @@
       <workItem from="1680081079808" duration="315000" />
       <workItem from="1680081621120" duration="6000" />
       <workItem from="1680229280697" duration="4564000" />
-      <workItem from="1680491572751" duration="1422000" />
+      <workItem from="1680491572751" duration="2699000" />
+      <workItem from="1680689202375" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode提交">
       <created>1672024759397</created>

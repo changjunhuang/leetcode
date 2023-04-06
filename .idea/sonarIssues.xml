@@ -308,6 +308,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/fundraiser/contract/src/main/java/com/bj58/fbu/loan/fundraiser/annotation/InterfaceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/fundraiser/contract/src/main/java/com/bj58/fbu/loan/fundraiser/annotation/SystemConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../workspace/fundraiser/contract/src/main/java/com/bj58/fbu/loan/fundraiser/annotation/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../workspace/fundraiser/service/src/main/java/com/bj58/fbu/loan/fundraiser/filter/ScfPreFilter.java">
           <value>
             <set />

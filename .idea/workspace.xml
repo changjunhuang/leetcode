@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interview/RevStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,20 +80,7 @@
       <recent name="E:\java\myWorkspace\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyTest">
-    <configuration name="两个链表的第一个公共节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.easy.两个链表的第一个公共节点" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RevStr">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.Main" />
       <module name="leetcode" />
@@ -102,6 +91,19 @@
     <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.MyTest" />
       <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RevStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.RevStr" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,13 +226,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RevStr" />
         <item itemvalue="Application.MyTest" />
         <item itemvalue="Application.SelfTest" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.两个链表的第一个公共节点" />
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +301,8 @@
       <workItem from="1680229280697" duration="4564000" />
       <workItem from="1680491572751" duration="2699000" />
       <workItem from="1680689202375" duration="46000" />
+      <workItem from="1680749280827" duration="288000" />
+      <workItem from="1681385588051" duration="1705000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode提交">
       <created>1672024759397</created>
@@ -371,14 +386,6 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1678959825962" />
-    <state x="310" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1672716314115">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="310" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1672716314115" />
-    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1672734762879">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1672734762879" />
     <state x="438" y="86" key="#xdebugger.evaluate" timestamp="1677641427851">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -391,38 +398,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="442" y="110" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1678959883397" />
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1681387128373">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1681387128373" />
+    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1681387128372">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1681387128372" />
+    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1681387128372">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1681387128372" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1681387128373">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.1.bottom" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1681387128373" />
+    <state width="1322" height="172" key="GridCell.Tab.1.bottom" timestamp="1681387128087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.1.center" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1681387128087" />
+    <state width="1322" height="172" key="GridCell.Tab.1.center" timestamp="1681387128086">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.1.left" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1681387128086" />
+    <state width="1322" height="172" key="GridCell.Tab.1.left" timestamp="1681387128086">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
-    <state width="1322" height="172" key="GridCell.Tab.1.right" timestamp="1680253852124">
+    <state width="1322" height="172" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1681387128086" />
+    <state width="1322" height="172" key="GridCell.Tab.1.right" timestamp="1681387128087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1680253852124" />
+    <state width="1322" height="172" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1681387128087" />
     <state x="474" y="85" key="RollbackChangesDialog" timestamp="1679888647528">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -435,10 +442,6 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1678960867113" />
-    <state x="486" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672025243658">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="486" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1672025243658" />
     <state x="225" y="113" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1677809974025">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

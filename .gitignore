@@ -1,3 +1,13 @@
 /out/
 /.idea/sonarlint/
 .idea
+*/target
+target/
+.settings/
+/.idea
+*.class
+.classpath
+.project
+*.iml
+/log
+*.log

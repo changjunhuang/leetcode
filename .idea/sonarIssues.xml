@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
@@ -79,6 +84,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/interview/RevStr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/interview/XiaoerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/interview/XiaoerTest2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/interview/XiaoerTest3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/interview/xiaoerTest.java">
           <value>
             <set />
           </value>

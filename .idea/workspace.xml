@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2c67a6-544d-4a79-acc2-a0a2197cb628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interview/XiaoerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/XiaoerTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/XiaoerTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/anyway/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/anyway/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/anyway/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/anyway/Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -82,20 +83,13 @@
       <recent name="E:\java\myWorkspace\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XiaoerTest2">
-    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.MyTest" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RevStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.RevStr" />
+  <component name="RunManager" selected="Application.Test4">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.anyway.Test1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="interview.anyway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +97,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XiaoerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.XiaoerTest" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.anyway.Test2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="interview.anyway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.anyway.Test3" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.anyway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.anyway.Test4" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.anyway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,32 +142,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XiaoerTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.XiaoerTest3" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="重排链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.mid.重排链表" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.mid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.XiaoerTest2" />
-        <item itemvalue="Application.XiaoerTest3" />
-        <item itemvalue="Application.XiaoerTest" />
-        <item itemvalue="Application.RevStr" />
-        <item itemvalue="Application.MyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +307,9 @@
       <workItem from="1681461715510" duration="20000" />
       <workItem from="1681587294710" duration="1241000" />
       <workItem from="1681591941607" duration="18000" />
-      <workItem from="1681784377860" duration="7420000" />
+      <workItem from="1681784377860" duration="7512000" />
+      <workItem from="1682323573030" duration="34000" />
+      <workItem from="1682323638620" duration="9281000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode提交">
       <created>1672024759397</created>
@@ -409,38 +405,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="442" y="110" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1678959883397" />
-    <state width="1322" height="202" key="GridCell.Tab.0.bottom" timestamp="1681790059359">
+    <state width="1322" height="182" key="GridCell.Tab.0.bottom" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1681790059359" />
-    <state width="1322" height="202" key="GridCell.Tab.0.center" timestamp="1681790059358">
+    <state width="1322" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.0.center" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1681790059358" />
-    <state width="1322" height="202" key="GridCell.Tab.0.left" timestamp="1681790059358">
+    <state width="1322" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.0.left" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1681790059358" />
-    <state width="1322" height="202" key="GridCell.Tab.0.right" timestamp="1681790059359">
+    <state width="1322" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.0.right" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1681790059359" />
-    <state width="1322" height="202" key="GridCell.Tab.1.bottom" timestamp="1681790059359">
+    <state width="1322" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.1.bottom" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1681790059359" />
-    <state width="1322" height="202" key="GridCell.Tab.1.center" timestamp="1681790059359">
+    <state width="1322" height="182" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.1.center" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1681790059359" />
-    <state width="1322" height="202" key="GridCell.Tab.1.left" timestamp="1681790059359">
+    <state width="1322" height="182" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.1.left" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1681790059359" />
-    <state width="1322" height="202" key="GridCell.Tab.1.right" timestamp="1681790059359">
+    <state width="1322" height="182" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
+    <state width="1322" height="182" key="GridCell.Tab.1.right" timestamp="1682335059546">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1681790059359" />
+    <state width="1322" height="182" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1682335059546" />
     <state x="474" y="85" key="RollbackChangesDialog" timestamp="1679888647528">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

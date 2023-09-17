@@ -12,10 +12,10 @@ public class 移除重复节点 {
     public static void main(String[] args) {
         ListNode node = new ListNode(2);
         node.next = new ListNode(2);
-//        node.next.next = new ListNode(3);
-//        node.next.next.next = new ListNode(3);
-//        node.next.next.next.next = new ListNode(2);
-//        node.next.next.next.next.next = new ListNode(1);
+        node.next.next = new ListNode(3);
+        node.next.next.next = new ListNode(3);
+        node.next.next.next.next = new ListNode(2);
+        node.nextj.next.next.next.next = new ListNode(1);
 
         ListNode result = removeDuplicateNodes(node);
         while (result != null) {

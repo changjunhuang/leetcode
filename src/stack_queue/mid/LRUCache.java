@@ -34,7 +34,7 @@ public class LRUCache {
             queue.remove(key);     //删除相应节点
         } else {
             if (queue.size() == size) {     //队列缓存满，删除头节点，最久未使用的
-                int count = queue.poll();
+                int count = queue.poll();   // 弹出队头元素，返回队头的值
                 map.remove(count);
             }
         }

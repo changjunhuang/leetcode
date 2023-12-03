@@ -14,6 +14,13 @@ public class 返回倒数第k个节点 {
         return result;
     }
 
+    /**
+     * O（n）
+     *
+     * @param head
+     * @param k
+     * @return
+     */
     public static int getResult(ListNode head, int k) {
         if (head.next == null) {
             if (k == 1) {
@@ -27,5 +34,28 @@ public class 返回倒数第k个节点 {
             result = head.val;
         }
         return num;
+    }
+
+    /**
+     * 快慢指针法
+     *
+     * @param head
+     * @param k
+     * @return
+     */
+    public static int getResult2(ListNode head, int k) {
+        if (head == null) {
+            return -1;
+        }
+
+        ListNode pre = head;
+        for (int i = 0; i < k; i++) {
+            pre = pre.next;
+        }
+        while (pre != null) {
+            pre = pre.next;
+            head = head.next;
+        }
+        return head.val;
     }
 }

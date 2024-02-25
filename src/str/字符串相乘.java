@@ -17,25 +17,30 @@ public class 字符串相乘 {
             return null;
         }
 
-        Integer result = 0;
+        int result = 0;
+        // 十倍或百倍
         int num2Temp = 1;
-        //  4 5 6
+        //  4 <- 5 <- 6
         for (int right = num2.length() - 1; right >= 0; right--) {
             int currentTotal = 0;
+            // 十位百位需要分别乘10
             if (right != num2.length() - 1) {
                 num2Temp = num2Temp * 10;
             }
 
+            // 十倍或百倍
             int num1Temp = 1;
             //  1 2 3
             for (int i = num1.length() - 1; i >= 0; i--) {
+                // 十位百位需要分别乘10
                 if (i != num1.length() - 1) {
                     num1Temp = num1Temp * 10;
                 }
+                // 字符串字节ascll码计算成数字（-48）*十位百位
                 currentTotal = currentTotal + (num1.charAt(i) - 48) * num1Temp * (num2.charAt(right) - 48) * num2Temp;
             }
             result = result + currentTotal;
         }
-        return result.toString();
+        return Integer.toString(result);
     }
 }

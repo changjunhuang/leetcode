@@ -18,7 +18,7 @@ public class QuickSort {
     }
 
 
-    static void quickSort(int[] array, int left, int right) {
+    private static void quickSort(int[] array, int left, int right) {
         if (left < right) {
             // 确定唯一排序值的位置
             int index = partition(array, left, right);
@@ -33,7 +33,7 @@ public class QuickSort {
     /**
      * 用第一个元素将待排序序列划分分为左右两个部分，一趟排序必定确定一个值的位置
      */
-    static int partition(int[] array, int left, int right) {
+    private static int partition(int[] array, int left, int right) {
         // 把第一个元素当作枢轴
         int key = array[left];
 

@@ -28,18 +28,18 @@ public class 平衡二叉树 {
             return true;
         }
         flag = true;
-        high(root);
+        right(root);
         return flag;
     }
 
-    public static int high(TreeNode root) {
+    public static int right(TreeNode root) {
         if (root == null) {
             return 0;
         }
 
         int currentNum = 1;
-        int left = currentNum + high(root.left);
-        int right = currentNum + high(root.right);
+        int left = currentNum + right(root.left);
+        int right = currentNum + right(root.right);
 
         if (left - right >= 2 || right - left >= 2) {
             flag = false;

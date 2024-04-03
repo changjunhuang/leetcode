@@ -53,7 +53,7 @@ public class QuickSort {
             }
             array[right] = array[left];
         }
-        // 此时left和right指针一致，array[left] 等于 array[right]
+        // while循环停止时，此时left和right指针一致，array[left] 等于 array[right]，所指元素为重复元素
         array[left] = key;
         return left;
     }

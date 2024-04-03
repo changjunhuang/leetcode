@@ -2,6 +2,7 @@ package thread;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * 测试.class锁对象线程，会不会对其他方法产生影响

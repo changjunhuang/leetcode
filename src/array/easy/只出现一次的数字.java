@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 /**
  * 136. 只出现一次的数字

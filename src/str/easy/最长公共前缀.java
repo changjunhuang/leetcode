@@ -1,4 +1,4 @@
-package str;
+package str.easy;
 
 /**
  * 14. 最长公共前缀

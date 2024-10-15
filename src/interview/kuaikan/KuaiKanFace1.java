@@ -1,4 +1,4 @@
-package interview;
+package interview.kuaikan;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -7,7 +7,7 @@ import java.util.Comparator;
  * @author huangchangjun
  * @date
  */
-public class Kuaikan {
+public class KuaiKanFace1 {
     public static void main(String[] args) {
         int[][] arrays = {{1, 3}, {2, 2}, {3, 1}};
         int result = getMaxSize(arrays, 4);

@@ -32,6 +32,7 @@ public class 反转每对括号间的子串 {
                 //  重新塞入栈中
                 reverseStr(sb, stack);
             } else {
+                //  stack.add 和stack.push 作用相同
                 stack.add(s.charAt(i));
             }
         }

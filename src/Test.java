@@ -19,7 +19,7 @@ public class Test {
         root.left.right.left = new TreeNode(6);
         root.left.right.right = new TreeNode(8);
 
-        System.out.println(sortedArrayToBST(root, 4));
+//        System.out.println(sortedArrayToBST(root, 4));
     }
 
     public TreeNode sortedArrayToBST(int[] nums) {

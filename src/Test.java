@@ -18,8 +18,6 @@ public class Test {
         root.left.left.left = new TreeNode(1);
         root.left.right.left = new TreeNode(6);
         root.left.right.right = new TreeNode(8);
-
-//        System.out.println(sortedArrayToBST(root, 4));
     }
 
     public TreeNode sortedArrayToBST(int[] nums) {

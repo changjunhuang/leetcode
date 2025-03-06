@@ -75,6 +75,7 @@ public class 回文链表 {
     private ListNode endOfFirstHalf(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
+        // 判断这个是为了奇数个节点时，slow指向中间节点(如果是偶数个节点，slow指向中间节点的前一个节点)
         while (fast.next != null && fast.next.next != null) {
             fast = fast.next.next;
             slow = slow.next;

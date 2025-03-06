@@ -52,7 +52,11 @@ public class kuaiKanFace2 {
         for (; longIndex >= 0 && resultIndex >= 0; longIndex--) {
             if (key > 0) {
                 int lastNum = longArray[longIndex] + key;
-                result[resultIndex--] = lastNum;
+                if(lastNum >= 10){
+                    result[resultIndex--] = lastNum % 10;
+                }else {
+                    result[resultIndex--] = lastNum;
+                }
                 key = lastNum / 10;
             } else {
                 result[resultIndex--] = longArray[longIndex];

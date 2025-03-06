@@ -10,7 +10,7 @@ public class 稀疏数组搜索 {
                 continue;
             }
             if (words[i].equals(s)) {
-                return i + 1;
+                return i;
             }
         }
         return -1;

@@ -17,32 +17,16 @@ public class 链表的中间结点 {
         listNode3.next = listNode4;
         listNode4.next = listNode5;
 
-        System.out.println(middleNode(listNode1));
+        System.out.println(middleNode(listNode1).val);
     }
 
-    public static int resultNum = 0;
-    public static int num = 0;
-    public static ListNode listNode = null;
-
-    private static ListNode middleNode(ListNode head) {
-        if (head == null) {
-            resultNum = num;
-            return head;
+    public static ListNode middleNode(ListNode head) {
+        ListNode slow = head, fast = head;
+        // 快指针走两步，慢指针走一步，快指针走到头，慢指针走到中间，如果是偶数个节点，慢指针走到中间两个节点的后一个
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        num++;
-        middleNode(head.next);
-
-        if (num % 2 == 0) {
-            if (resultNum == num / 2) {
-                listNode = head.next;
-            }
-        } else {
-            if (resultNum == (num / 2) + 1) {
-                listNode = head;
-            }
-        }
-        resultNum--;
-
-        return listNode;
+        return slow;
     }
 }

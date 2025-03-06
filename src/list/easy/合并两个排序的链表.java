@@ -7,7 +7,9 @@ import pub.ListNode;
  */
 public class 合并两个排序的链表 {
     public ListNode mergeTwoLists(ListNode nodeA, ListNode nodeB) {
+        // 构造一个链头
         ListNode pre = new ListNode(-1);
+        // 构造一个临时节点
         ListNode temp = pre;
         while (nodeA != null && nodeB != null) {
             if (nodeA.val < nodeB.val) {

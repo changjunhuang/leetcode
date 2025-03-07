@@ -1,10 +1,13 @@
-package array;
+package array.easy;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * 350. 两个数组的交集 II
+ */
 public class 两个数组的交集II {
     public int[] intersect(int[] nums1, int[] nums2) {
         HashMap<Integer, Integer> map = new HashMap<>();

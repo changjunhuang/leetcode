@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import java.util.*;
  */
 public class 两个数组的交集 {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> map = new HashMap();
+        Map<Integer, Integer> map = new HashMap<>();
         int[] max;
         int[] min;
         if (nums1.length > nums2.length) {

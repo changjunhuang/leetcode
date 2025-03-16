@@ -10,9 +10,12 @@ import java.util.concurrent.LinkedBlockingQueue;
  */
 public class LRUCache {
 
-    Map<Integer, Integer> map;  //记录数据的
-    Queue<Integer> queue;       //记录最近最久未使用的顺序
-    int size;                   //设计缓存大小
+    //记录数据的
+    Map<Integer, Integer> map;
+    //记录最近最久未使用的顺序
+    Queue<Integer> queue;
+    //设计缓存大小
+    int size;
 
     public LRUCache(int capacity) {
         queue = new LinkedBlockingQueue<>();
@@ -24,21 +27,25 @@ public class LRUCache {
         if (!queue.contains(key)) {
             return -1;
         }
-        queue.remove(key);     //排序顺序
+        queue.remove(key);
         queue.add(key);
         return map.get(key);
     }
 
     public void put(int key, int value) {
         if (queue.contains(key)) {
-            queue.remove(key);     //删除相应节点
+            //删除相应节点
+            queue.remove(key);
         } else {
-            if (queue.size() == size) {     //队列缓存满，删除头节点，最久未使用的
-                int count = queue.poll();   // 弹出队头元素，返回队头的值
+            //队列缓存满，删除头节点，最久未使用的
+            if (queue.size() == size) {
+                // 弹出队头元素，返回队头的值
+                int count = queue.poll();
                 map.remove(count);
             }
         }
-        queue.add(key);     //新增 加入 的节点
+        //新增加入的节点
+        queue.add(key);
         map.put(key, value);
     }
 }

@@ -24,7 +24,7 @@ public class 删除链表的倒数第N个结点 {
             }
         }
 
-        //  快慢指针同时往前走
+        //  快慢指针同时往前走，当快指针走到最后一个节点时，慢指针的下一个节点就是要删除的节点
         while (pre.next != null) {
             pre = pre.next;
             after = after.next;

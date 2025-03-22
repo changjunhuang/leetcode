@@ -1,4 +1,4 @@
-package map;
+package map.mid;
 
 /**
  * 200. 岛屿数量

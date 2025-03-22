@@ -1,4 +1,4 @@
-package map;
+package map.mid;
 
 /**
  * 547. 省份数量

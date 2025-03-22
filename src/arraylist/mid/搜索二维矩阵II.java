@@ -1,4 +1,4 @@
-package arraylist;
+package arraylist.mid;
 
 /**
  * 240. 搜索二维矩阵 II

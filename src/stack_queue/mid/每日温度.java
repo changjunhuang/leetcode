@@ -1,9 +1,8 @@
 package stack_queue.mid;
 
-import java.util.ArrayDeque;
+import java.util.Arrays;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * 739. 每日温度
@@ -12,7 +11,12 @@ import java.util.Queue;
  * @date 2025-04-01
  */
 public class 每日温度 {
-    public int[] dailyTemperatures(int[] temperatures) {
+    public static void main(String[] args) {
+        int[] temperatures = {73, 74, 75, 71, 69, 72, 76, 73};
+        System.out.println(Arrays.toString(dailyTemperatures(temperatures)));
+    }
+
+    public static int[] dailyTemperatures(int[] temperatures) {
         int length = temperatures.length;
         int[] ans = new int[length];
         Deque<Integer> stack = new LinkedList<Integer>();

@@ -1,4 +1,4 @@
-package stack_queue.hard;
+package stack_queue_heap.hard;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

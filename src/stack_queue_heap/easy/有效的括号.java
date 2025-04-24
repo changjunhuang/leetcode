@@ -1,4 +1,4 @@
-package stack_queue.easy;
+package stack_queue_heap.easy;
 
 import java.util.*;
 

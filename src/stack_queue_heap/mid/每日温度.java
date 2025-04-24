@@ -1,4 +1,4 @@
-package stack_queue.mid;
+package stack_queue_heap.mid;
 
 import java.util.Arrays;
 import java.util.Deque;

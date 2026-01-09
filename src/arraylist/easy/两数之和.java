@@ -17,6 +17,7 @@ public class 两数之和 {
         }
         for (int i = 0; i < nums.length; ++i) {
             int t = target - nums[i];
+            // 注意这里要判断不是同一个元素
             if (m.containsKey(t) && m.get(t) != i) {
                 res[0] = i;
                 res[1] = m.get(t);

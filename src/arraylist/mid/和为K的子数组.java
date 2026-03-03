@@ -36,7 +36,9 @@ public class 和为K的子数组 {
         HashMap<Integer, Integer> map = new HashMap<>();
         map.put(0, 1);
         for (int num : nums) {
+            // 前缀和
             pre = pre + num;
+            // 当前前缀和减去k在不在map中
             if (map.containsKey(pre - k)) {
                 count = count + map.get(pre - k);
             }

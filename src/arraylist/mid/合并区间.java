@@ -14,9 +14,9 @@ public class 合并区间 {
     public static void main(String[] args) {
         合并区间 test = new 合并区间();
         List<Interval> list = new ArrayList<>();
-        list.add(new Interval(1, 3));
         list.add(new Interval(2, 6));
         list.add(new Interval(8, 10));
+        list.add(new Interval(1, 3));
         list.add(new Interval(15, 18));
         List<Interval> result = test.merge(list);
         for (Interval interval : result) {
